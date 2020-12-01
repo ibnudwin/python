@@ -1,6 +1,11 @@
-#cara penulisan python
+### cara penulisan python
 print('saya belajar bahasa pemrograman python dari dasar)
 
-#cara penulisan python untuk angka
+### cara penulisan python untuk angka
 var1 = 1,2,3,4,5    #atau dengan cara
 print(1,2,3,4,5)
+
+### cara Perkalian di Python
+a = 5
+b = 2
+a*b hasilnya 10
