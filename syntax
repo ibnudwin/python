@@ -12,3 +12,8 @@ a*b hasilnya 10
 
 ### Cara Penulisan Menggunakan Perintah Format
 print('pemenang perlombaan agustusan adalah {} {} {}'.format('andi','dimas','riki'))
+
+### Cara Penulisan Menggunakan Looping For
+var1 = 'jangankan gedung burungpun aku tak punya'
+for i in range(len(var1[0:5])):
+    print('aku pasti bisa')
