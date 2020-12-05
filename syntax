@@ -54,3 +54,9 @@ if(i==10): #pengecekan nilai i apakah sama dengan 10
     print("ini adalah angka 10") #jika TRUE maka akan mencetak kalimat ini
 else:
     print("bukan angka 10") #jika FALSE akan mencetak kalimat ini
+
+### format penulisan untuk methode print {nilai:lebar.tingkat_presisi f}
+luas1= 660.2
+luas2= 125
+print('pak andi memiliki sebuah luas bidang tanah panjang {a} dan Lebar {b}'.format(a=luas1, b=luas2))
+print('pak andi memiliki sebuah luas bidang tanah panjang {a:10.1f} dan Lebar {b:5.2f}'.format(a=luas1, b=luas2))
